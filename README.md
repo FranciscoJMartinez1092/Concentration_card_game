@@ -1,1 +1,2 @@
-# Concentration_card_game
+# Concentration_card_game 
+# In this game, pairs of letters will be hidden on a rectangular grid. You first eneter how many rows and columns you want the board to be. The products of the row and columns need to between 16 and 64. Once the grid is established you will be asked to enter the numbers of two slots. If the letters of those slots match, they will stay in view. If not, after 3 seconds the letters will dissapear and be replaced by the numbers. Your job is to find all the pairs
